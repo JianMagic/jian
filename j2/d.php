@@ -10,7 +10,7 @@ class test
 {
     function add()
     {
-
+        echo 'add';
     }
 }
 ?>
