@@ -6,5 +6,5 @@
  * Time: 11:48
  */
 header("Content-type:text/html;charset=utf-8");
-echo 1234;
+echo 1;
 ?>
