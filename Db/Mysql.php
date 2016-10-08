@@ -5,13 +5,13 @@ class Mysql implements IDatabase
 {
     function connect()
     {
-        // TODO: Implement connect() method.
+       echo 'c';
 
     }
 
     function query()
     {
-        // TODO: Implement query() method.
+
 
     }
 
